@@ -1,4 +1,4 @@
-# komesite
+# komesiteR18
 *site*
 https://kometarou1145.github.io/komesiteR18/
 Discord:<br>
